@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "O Senhor dos Anéis",
+        "autor": "J.R.R. Tolkien",
+        "anoPublicação": 1954,
+        "qtdExemplares": 10
+    },
+    {
+        "titulo": "O Ladrão de Raios (Percy Jackson e os Olimpianos, #1)",
+        "autor": "Rick Riordan",
+        "anoPublicação": 2005,
+        "qtdExemplares": 2
+    }
+]
